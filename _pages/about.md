@@ -16,35 +16,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-# About Us
 
-We are the **Cukurova Applied Artificial Intelligence Research Group**, advancing AI research and turning ideas into real-world solutions.
 
-## Our Mission
+We are the **Cukurova Applied Artificial Intelligence Research Group**, dedicated to advancing AI research and translating innovations into real-world applications. Our team collaborates across disciplines at Çukurova University to tackle complex challenges, applying expertise in artificial intelligence, machine learning, deep learning, computer vision, and robotics. By supporting projects in healthcare, energy, agriculture, and other industries, we strive to provide practical, impactful solutions. Explore our work, connect with our researchers, and join us in shaping a future empowered by intelligent technologies.
 
-To bridge the gap between **theory and practice**, driving innovation across diverse fields. Collaboration is at the core of what we do: we work closely with researchers from multiple disciplines at Çukurova University to tackle complex challenges together.
-
-## Our Expertise
-
-We specialize in:  
-- Artificial Intelligence  
-- Machine Learning & Deep Learning  
-- Computer Vision  
-- Robotics  
-
-We apply these technologies to **healthcare, energy, agriculture, automotive**, and more, supporting researchers and industry partners with practical AI solutions.
-
-## Partnerships & Impact
-
-By leveraging Çukurova University’s resources and knowledge, we create impactful projects that address real-world problems.  
-
-Explore our work, connect with our team, and join us in shaping a **future empowered by intelligent technologies**.
 
 
 ---
 
 ## contact
-cukurovaai@cu.edu.tr
+
+<i class="fa fa-envelope"></i> *cukurovaai@cu.edu.tr*
 
 Cukurova University, Department of Computer Engineering
 
