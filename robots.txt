@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cukurovaai-test.github.io/sitemap.xml
+Sitemap: https://cukurovaai.github.io/cukurovaai-test/sitemap.xml

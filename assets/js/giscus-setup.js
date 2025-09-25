@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "cukurovaai/cukurovaai-test.github.io",
+    "data-repo": "cukurovaai/cukurovaai-test",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
