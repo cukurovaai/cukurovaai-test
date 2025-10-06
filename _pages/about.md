@@ -1,8 +1,9 @@
 ---
 layout: about
-title: "About"
+title: About
 subtitle: "Cukurova Applied Artificial Intelligence Research Group"
 permalink: /
+nav: true
 
 profile:
   align: right
