@@ -12,6 +12,9 @@ instagram:
 orcid: 
 email: fatimenazlias@gmail.com
 image: /images/team/nazli_as.jpg
+alumni: false
+categories:
+ - team
 cv: 
 ---
 
