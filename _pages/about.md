@@ -4,6 +4,7 @@ title: About
 subtitle: "Cukurova Applied Artificial Intelligence Research Group"
 permalink: /
 nav: true
+nav_order: 1
 
 profile:
   align: right
