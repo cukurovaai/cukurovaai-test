@@ -2,6 +2,7 @@
 layout: member
 title: Mehmet Sarigul
 position: Assistant Professor
+categories: [team]
 handle: 
 twitter: 
 github: 
@@ -13,9 +14,9 @@ linkedin: mehmet-sarıgül-b7a05a19
 instagram: 
 orcid: 
 email: 
+
 alumni: false
-categories:
- - team
+
 ---
 
 
