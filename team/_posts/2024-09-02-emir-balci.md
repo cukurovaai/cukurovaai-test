@@ -3,15 +3,7 @@ layout: member
 title: Emirhan Balci
 position: M.Sc. Student
 categories: [team]
-handle: 
-twitter:
-github: FatimeNazliAs
-scholar: 
-website: 
-linkedin: fatimenazlias
-instagram: 
-orcid: 
-email: fatimenazlias@gmail.com
+permalink: /team/emirhan-balci/
 image: /images/team/emirhan_balci.jpeg
 alumni: false
 cv: 

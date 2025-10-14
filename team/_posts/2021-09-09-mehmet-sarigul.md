@@ -3,6 +3,7 @@ layout: member
 title: Mehmet Sarigul
 position: Assistant Professor
 categories: [team]
+permalink: /team/mehmet-sarigul/
 image: /images/team/mehmet_sarigul.jpg
 scholar: https://scholar.google.com/citations?user=yo_6rP4AAAAJ&hl=tr
 website: https://avesis.cu.edu.tr/msarigul
