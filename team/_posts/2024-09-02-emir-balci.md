@@ -14,7 +14,6 @@ orcid:
 email: fatimenazlias@gmail.com
 image: /images/team/emirhan_balci.jpeg
 alumni: false
-categories: [team]
 cv: 
 ---
 

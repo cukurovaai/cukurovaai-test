@@ -3,18 +3,17 @@ layout: member
 title: Mehmet Sarigul
 position: Assistant Professor
 categories: [team]
+image: /images/team/mehmet_sarigul.jpg
+scholar: https://scholar.google.com/citations?user=yo_6rP4AAAAJ&hl=tr
+website: https://avesis.cu.edu.tr/msarigul
+linkedin: mehmet-sarıgül-b7a05a19
 handle: 
 twitter: 
 github: 
-scholar: https://scholar.google.com/citations?user=yo_6rP4AAAAJ&hl=tr
-image: /images/team/mehmet_sarigul.jpg
 cv: 
-website: https://avesis.cu.edu.tr/msarigul
-linkedin: mehmet-sarıgül-b7a05a19
 instagram: 
 orcid: 
 email: 
-
 alumni: false
 
 ---
