@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/cukurovaai-test/";
     },
-  },{id: "nav-about",
-          title: "About",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cukurovaai-test/";
-          },
-        },{id: "nav-news",
+  },{id: "nav-news",
           title: "News",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cukurovaai-test/news/";
+          },
+        },{id: "nav-about",
+          title: "About",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cukurovaai-test/";
           },
         },{id: "nav-publications",
           title: "Publications",
@@ -48,6 +48,17 @@ ninja.data = [{
             window.location.href = "/cukurovaai-test/blog/2025/plotly/";
           
         },
+      },{id: "post-fatime-nazli-as",
+        
+          title: "Fatime Nazli As",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/cukurovaai-test/blog/2025/nazli-as/";
+          
+        },
       },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
@@ -57,6 +68,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/cukurovaai-test/blog/2024/photo-gallery/";
+          
+        },
+      },{id: "post-emirhan-balci",
+        
+          title: "Emirhan Balci",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/cukurovaai-test/blog/2024/emir-balci/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -310,6 +332,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/cukurovaai-test/assets/pdf/example_pdf.pdf";
+          
+        },
+      },{id: "post-mehmet-sarigul",
+        
+          title: "Mehmet Sarigul",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/cukurovaai-test/blog/2021/mehmet-sarigul/";
           
         },
       },{id: "post-a-post-with-diagrams",
