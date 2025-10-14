@@ -63,7 +63,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/cukurovaai-test/blog/2025/nazli-as/";
+            window.location.href = "/cukurovaai-test/team/fatime-nazli-as/";
           
         },
       },{id: "post-a-post-with-image-galleries",
@@ -85,7 +85,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/cukurovaai-test/blog/2024/emir-balci/";
+            window.location.href = "/cukurovaai-test/team/emirhan-balci/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -349,7 +349,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/cukurovaai-test/blog/2021/mehmet-sarigul/";
+            window.location.href = "/cukurovaai-test/team/mehmet-sarigul/";
           
         },
       },{id: "post-a-post-with-diagrams",
